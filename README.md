@@ -1,4 +1,3 @@
-<h1 align="center">Hi! Name's Shu</h1>
 <p> <img src="https://komarev.com/ghpvc/?username=shujynx&label=Profile%20views&color=ff2424&style=flat" alt="Shujynx" /> </p>
 <p> <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Shujynx&count_private=true&show_icons=true&show_icons=true&theme=dracula" /> </p>
 <p> <img alt="Stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=Shujynx&theme=dracula" /> </p>
