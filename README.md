@@ -1,2 +1,1 @@
-[Commissions](https://sereno.pages.dev/comms/)<br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E6575UX)
