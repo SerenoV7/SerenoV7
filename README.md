@@ -1,1 +1,2 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E6575UX)
+# MOVING ALL OF MY PROJECTS OVER TO A SELFHOSTED GIT
+[https://git.sereno.one/](https://git.sereno.one/)
